@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Thank you page for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-08 13:44+0000\n"
+"PO-Revision-Date: 2018-05-08 13:50+0000\n"
+"Last-Translator: root <Osip.29.1999@gmail.com>\n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: thank-you-page.php:70
+msgid "General settings"
+msgstr "Общие настройки"
+
+#: thank-you-page.php:77
+msgid "Choose Thank You page: "
+msgstr "Выберите страницу благодарности:"
+
+#: thank-you-page.php:100
+msgid "Hide order details"
+msgstr "Скрыть детали заказа"
+
+#: thank-you-page.php:108
+msgid "Show cross-sell products"
+msgstr "Показать кросс-продажные товары"
+
+#: thank-you-page.php:116
+msgid "Show up-sell products"
+msgstr "Показать ап-продажные товары"
+
+#: thank-you-page.php:124
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: thank-you-page.php:129
+msgid "Discard global Thank You page"
+msgstr "Сбросить глобальную страницу благодарности"
+
+#: thank-you-page.php:404
+msgid "Choose  page for product: "
+msgstr "Выберите страницу для продукта: "
+
+#. Name of the plugin
+msgid "Custom Thank you page for WooCommerce"
+msgstr "Пользовательская страница благодарности для WooCommerce"
+
+#. Description of the plugin
+msgid ""
+"Thank you page is a extendable WP plugin that helps you thank your customer "
+"after order."
+msgstr ""
+"Страница благодарности - расширяемый плагин WP, который помогает вам "
+"поблагодарить своего клиента после заказа."
+
+#. Author of the plugin
+msgid "BeRocket"
+msgstr "BeRocket"
+
+#. Author URI of the plugin
+msgid "http://berocket.com"
+msgstr "http://berocket.com"
